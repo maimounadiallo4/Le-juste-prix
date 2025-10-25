@@ -1,3 +1,3 @@
 # Le juste prix
 
-Mini projet html css js
+Mini projet pour s'améliorer en html css js
